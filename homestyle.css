@@ -192,35 +192,76 @@ body{
     }
 }
 
-/* product */
+/* Product */
 
 .product {
-    /* position: relative; */
     background: url(home/layout2.png) no-repeat;
     background-size: cover;
     display: flex;
-    /* align-items: center; */
     padding: 70px 10% 0;
     width: 150vw;
     height: 290vh;
     object-fit: cover;
 }
 
-.product-content h3{
-    color: #1199AE;
-    font-family: 'Amaranth', sans-serif;
-    font-size: 65px;
+.kon1{
     text-align: center;
+    align-items: center;
+    margin: 50px 0px 0px 0px;
 }
 
-.product-content p{
-    font-weight: 900px;
-    width: 800px;
+.kon1 h3{
+    color: #1199AE;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 50px;
+}
+
+.kon1 p{
+    width: 600px;
     color: #1199AE;
     font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    margin: 20px 300px 00px 300px;
+    margin: 20px 0px 0px 200px;
+}
 
+.kon2{
+    text-align: left;
+    align-items: end;
+    justify-content: end;
+    margin: 320px 0px 0px 450px;
+}
+
+.kon2 h3{
+    color: #1199AE;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 50px;
+}
+
+.kon2 p{
+    width: 700px;
+    color: #1199AE;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 0px 0px 0px;
+
+}
+
+.kon3{
+    text-align: left;
+    align-items: end;
+    justify-content: end;
+    margin: 300px 0px 0px 0px;
+}
+
+.kon3 h3{
+    color: #1199AE;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 50px;
+}
+
+.kon3 p{
+    width: 500px;
+    color: #1199AE;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 0px 0px 0px;
 }
 
 /* porto */
