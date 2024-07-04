@@ -382,32 +382,78 @@ form input, form textarea{
 
 .textimg {
   position: absolute;
-  top: 45%;
+  top: 28%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-70%, -50%);
   color: white;
   font-size: 24px;
   font-weight: bold;
+  font-family: 'Amaranth';
 }
 
 .text {
   position: absolute;
-  top: 48%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 30.5%;
+  left: 47.7%;
+  transform: translate(-52%, -50%);
   color: white;
-  font-size: 16px;
-  font-weight: normal
+  font-size: 24.2px;
+  font-weight: normal;
+  font-family: 'Montserrat';
 }
 
 .text2 {
   position: absolute;
-  top: 49%;
+  top: 37.5%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 16px;
-  font-weight: normal
+  font-size: 55px;
+  font-weight: normal;
+  font-family: 'Amaranth';
+}
+
+.text3 {
+  position: absolute;
+  top: 44.29%;
+  left: 49%;
+  transform: translate(-50%, -50%);
+}
+
+.text4 {
+  position: absolute;
+  top: 262%;
+  left: 49%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+}
+
+.text5 {
+  position: absolute;
+  top: 279%;
+  left: 28%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 55px;
+  font-weight: normal;
+  font-family: 'Amaranth';
+}
+
+.text6 {
+  position: absolute;
+  top: 290%;
+  left: 33%;
+  transform: translate(-50%, -50%);
+}
+
+.text7 {
+  position: absolute;
+  top: 334%;
+  left: 28%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  font-weight: normal;
+  font-family: 'Amaranth';
 }
 
 .imageLayout {
