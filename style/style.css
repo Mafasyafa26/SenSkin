@@ -384,7 +384,7 @@ form input, form textarea{
   position: absolute;
   top: 28%;
   left: 50%;
-  transform: translate(-70%, -50%);
+  transform: translate(-50%, -50%);
   color: white;
   font-size: 24px;
   font-weight: bold;
@@ -479,9 +479,11 @@ form input, form textarea{
 }
 
 .textimg2 {
+  display: block;
   position: absolute;
   margin-top: 44%;
   margin-left: 30%;
+  height: auto;
   transform: translate(-50%, -50%);
 }
 
@@ -494,6 +496,39 @@ form input, form textarea{
   color: #12A4B7;
   font-size: 16px;
   font-weight: normal;
+}
+
+.textedimg {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Amaranth';
+}
+
+.texted {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: 'Montserrat';
+}
+
+.texted2 {
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: 'Amaranth';
 }
 /* @media only screen and (max-width: 600px){
 
