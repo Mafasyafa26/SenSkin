@@ -45,7 +45,7 @@ body{
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background-color: #b1d2f5;
+  background-color: #07A856;
   color: #fff;
   border: none;
   border-radius: 50px;
@@ -54,7 +54,7 @@ body{
 }
 
 #scrollToTopBtn:hover {
-  background-color: #b1d2f5;
+  background-color: #12A4B7;
 }
 
 .header{
@@ -81,6 +81,7 @@ body{
   transition: .3s;
   opacity: 0;
   animation: slideTop 5s ease forwards;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .navbar a:hover{
@@ -89,15 +90,18 @@ body{
 
 .home {
   position: relative;
-  width: 100%;
+  /* width: 100%; */
   justify-content: space-between;
-  height: 100vh;
+  /* height: 100vh; */
   background: url(home/layout1.png) no-repeat;
   background-size: cover;
   background-position-x: center;
   display: flex;
   align-items: center;
   padding: 70px 10% 0;
+  width: 100vw;
+    height: 140vh;
+    object-fit: cover;
 }
 
 .home-img img{
@@ -385,11 +389,25 @@ form input, form textarea{
   top: 23%;
   left: 54%;
   transform: translate(-70%, -50%);
+  top: 28%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   color: white;
   font-size: 1.25rem;
   font-weight: bold;
   font-family: 'Amaranth';
 }
+
+ .texthead {
+  position: absolute;
+  top: 23%;
+  left: 54%;
+  transform: translate(-70%, -50%);
+  color: white;
+  font-size: 1.25rem;
+  font-weight: bold;
+  font-family: 'Amaranth';
+ }
 
 .text {
   position: absolute;
@@ -517,7 +535,7 @@ form input, form textarea{
 .imageLayout {
   position: absolute;
   top: 70%;
-  /* left: 50%; */
+  left: 50%;
   right: -50%;
   transform: translate(-50%, -50%);
 }
@@ -527,6 +545,49 @@ form input, form textarea{
   text-align: center;
   padding-top: 7.5%;
   font-size: 3rem;
+}
+
+.container2 {
+  position: relative;
+  width: 100%;
+  margin-top:-20%;
+}
+
+.image2 {
+  display: block;
+  width: 75%;
+  height: auto;
+  position: absolute;
+  left: 25%;
+}
+
+.textimg2 {
+  display: block;
+  position: absolute;
+  margin-top: 44%;
+  margin-left: 30%;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
+
+.titletext{
+  color: #12A4B7;
+  font-size: 16px;
+  font-weight: bold;
+}
+.paragraftext{
+  color: #12A4B7;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.textedimg {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
   font-weight: bold;
   font-family: 'Amaranth';
 }
@@ -540,6 +601,27 @@ form input, form textarea{
   font-size: 1.125rem;
 }
 
+.texted {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: 'Montserrat';
+}
+
+.texted2 {
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: 'Amaranth';
+}
 /* @media only screen and (max-width: 600px){
 
 } */
