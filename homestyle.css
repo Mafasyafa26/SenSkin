@@ -91,11 +91,11 @@ body{
 
 .navbar a{
     display: inline-block;
-    font-size: 18px;
+    font-size: 20px;
     color: #12A4B7;
     text-decoration: none;
     font-weight: 500;
-    margin-left: 45px;
+    margin-left: 35px;
     transition: .3s;
     opacity: 0;
     animation: slideTop 5s ease forwards;
@@ -378,3 +378,98 @@ form input, form textarea{
 /* @media only screen and (max-width: 600px){
 
 } */
+
+@media (max-width: 1200px) {
+    .home-content h1 {
+        font-size: 48px;
+    }
+
+    .home-content p {
+        font-size: 14px;
+    }
+
+    .kon1 h3, .kon2 h3, .kon3 h3, .lay1 h3 {
+        font-size: 40px;
+    }
+
+    .kon1 p, .kon2 p, .kon3 p, .lay1 p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 992px) {
+    .home {
+        flex-direction: column;
+        height: auto;
+        padding: 50px 5%;
+    }
+
+    .product, .layerr3 {
+        flex-direction: column;
+        width: 100vw;
+        padding: 50px 5%;
+    }
+
+    .kon1, .kon2, .kon3, .lay1 {
+        margin: 20px 0;
+    }
+
+    .contact-left, .contact-right {
+        flex-basis: 100%;
+        margin: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+    }
+
+    .navbar a {
+        margin: 10px 0;
+    }
+
+    .home-content h1 {
+        font-size: 36px;
+    }
+
+    .home-content p {
+        font-size: 12px;
+    }
+
+    .kon1 h3, .kon2 h3, .kon3 h3, .lay1 h3 {
+        font-size: 30px;
+    }
+
+    .kon1 p, .kon2 p, .kon3 p, .lay1 p {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 576px) {
+    .home-content {
+        padding: 20px;
+    }
+
+    .home-content h1 {
+        font-size: 24px;
+    }
+
+    .home-content p {
+        font-size: 10px;
+    }
+
+    .kon1 h3, .kon2 h3, .kon3 h3, .lay1 h3 {
+        font-size: 24px;
+    }
+
+    .kon1 p, .kon2 p, .kon3 p, .lay1 p {
+        font-size: 10px;
+    }
+
+    .btn-box {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+}
