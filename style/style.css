@@ -386,9 +386,6 @@ form input, form textarea{
 
 .textimg {
   position: absolute;
-  top: 23%;
-  left: 54%;
-  transform: translate(-70%, -50%);
   top: 28%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -545,6 +542,8 @@ form input, form textarea{
   text-align: center;
   padding-top: 7.5%;
   font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Amaranth';
 }
 
 .container2 {
@@ -596,7 +595,7 @@ form input, form textarea{
   /* position: absolute; */
   color: #1199ae;
   text-align: center;
-  width: 50%;
+  width: 46%;
   margin: 2% auto 0;
   font-size: 1.125rem;
 }
