@@ -267,7 +267,7 @@ body{
 
 /* layer */
 .layerr3 {
-    background: url(home/layout3.png) no-repeat;
+    background: url(./home/layout3.png) no-repeat;
     background-size: cover;
     display: flex;
     padding: 20px 10% 0;
