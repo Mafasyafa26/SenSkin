@@ -368,6 +368,137 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-/* @media only screen and (max-width: 600px){
+.kon1 .item{
+    width: 50%;
+    margin: 0;
+    margin-left: 0;
+    text-align: left;
+    align-items: center;
+}
 
-} */
+@media only screen and (max-width: 360px){
+    .kon1 h3{
+        color: #1199AE;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 40px;
+    }
+    .kon1 .item{
+        width: 100%;
+    }
+    .kon1 .item p{
+        width: 100%;
+        margin: 0;
+        margin-top: 5vh;
+    }
+    
+    .kon2{
+        text-align: center;
+        align-items: left;
+        justify-content: left;
+        margin: auto;
+        margin-top: 10vh;
+    }
+    
+    .kon2 h3{
+        color: #1199AE;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 40px;
+    }
+    
+    .kon2 p{
+        width: 100%;
+        max-width: 700px;
+        color: #1199AE;
+        font-family: 'Montserrat', sans-serif;
+        margin: 20px 0px 0px 0px;
+    
+    }
+
+    .kon3 h3{
+        color: #1199AE;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 40px;
+    }
+
+    .kon3 .item{
+        width: 100%;
+    }
+    .kon3 .item p{
+        width: 100%;
+        margin: 0;
+        margin-top: 5vh;
+    }
+    
+    .lay1{
+        text-align: center;
+        align-items: center;
+        margin: auto;
+        width: 100%;
+        margin-top: 50vh;
+    }
+    
+    .lay1 h3{
+        color: #ffffff;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 40px;
+        width: 100%;
+    }
+    
+    .lay1 p{
+        width: 100%;
+        color: #ffffff;
+        font-family: 'Montserrat', sans-serif;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .layerr3 {
+        background: url(./home/layout3.png) no-repeat;
+        background-size: cover;
+        display: flex;
+        padding: 10px 10% 0;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .komposisi {
+        color: white;
+        margin-left: 50%;
+        margin-top: -70vh;
+        transform: translate(-50%, -50%);
+      }
+    
+      .titletxt{
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 3rem;
+        margin: auto;
+        width: 100%;
+        text-align: center;
+      }
+      .partxt{
+        color: white;
+        font-size: 14px;
+        font-weight: normal;
+        margin-top: 10px;
+      }
+
+      .komposisi2 {
+        margin-top: 25vh;
+      }
+      .komposisi2 .titletxt{
+        color: #12A4B7;
+        font-weight: bold;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 2rem;
+      }
+      .komposisi2 .partxt{
+        color: #12A4B7;
+        font-size: 14px;
+        font-weight: normal;
+        margin-top: 10px;
+        width: 20vh;
+      }
+      
+}
