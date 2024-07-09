@@ -376,7 +376,7 @@ body{
     align-items: center;
 }
 
-@media only screen and (max-width: 360px){
+@media only screen and (max-width: 450px){
     .kon1 h3{
         color: #1199AE;
         font-family: 'Amaranth', sans-serif;
