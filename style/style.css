@@ -621,7 +621,7 @@ form input, form textarea{
   font-weight: normal;
   font-family: 'Amaranth';
 }
-@media only screen and (max-width: 360px){
+@media only screen and (max-width: 450px){
   .texted {
     position: absolute;
     top: -20%;
