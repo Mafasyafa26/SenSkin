@@ -697,7 +697,7 @@ form input, form textarea{
 
   .text4 {
     position: absolute;
-    top: 28.5%;
+    top: 29.5%;
     left: 31%;
     transform: translate(-50%, -50%);
     color: white;
@@ -708,7 +708,7 @@ form input, form textarea{
 
   .text5 {
     position: absolute;
-    top: 33%;
+    top: 35%;
     left: 32%;
     transform: translate(-50%, -50%);
     font-size: 12px;  
