@@ -865,7 +865,7 @@ form input, form textarea{
 
   .text6 {
     position: absolute;
-    top: 32%;
+    top: 33%;
     left: 70%;
     transform: translate(-50%, -50%);
     font-size: 1.0rem;
@@ -875,7 +875,7 @@ form input, form textarea{
 
   .text7 {
     position: absolute;
-    top: 38%;
+    top: 37%;
     left: 69%;
     transform: translate(-50%, -50%);
     font-size: 12px;  
@@ -894,7 +894,7 @@ form input, form textarea{
 
   .text9 {
     position: absolute;
-    top: 42.2%;
+    top: 42.7%;
     left: 33.7%;
     transform: translate(-50%, -50%);
     font-size: 12px; 
@@ -902,7 +902,7 @@ form input, form textarea{
 
   .text10 {
     position: absolute;
-    top: 40.6%;
+    top: 38%;
     left: 70%;
     transform: translate(-50%, -50%);
     font-size: 1.0rem;
