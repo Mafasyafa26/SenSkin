@@ -397,7 +397,7 @@ form input, form textarea{
 
  .texthead {
   position: absolute;
-  top: 23%;
+  top: 120vh;
   left: 54%;
   transform: translate(-70%, -50%);
   color: white;
