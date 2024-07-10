@@ -589,7 +589,7 @@ body{
         width: 70vw;
         height: 260vh;
         object-fit: cover;
-
+        margin-top: 30px;
         background-repeat: no-repeat;
         background-size: contain;
     }
