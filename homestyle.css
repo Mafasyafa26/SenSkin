@@ -525,7 +525,7 @@ body{
         /* position: relative; */
         justify-content: space-between;
         background: url(home/layout1.png) no-repeat;
-        /* background-size: cover; */
+        background-size: cover;
         /* background-position-x: center; */
         display: flex;
         align-items: center;
@@ -535,7 +535,7 @@ body{
         object-fit: cover;
 
         background-repeat: no-repeat;
-        background-size: contain;
+        /* background-size: contain; */
     }
 
     .home-img img{
