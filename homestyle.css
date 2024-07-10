@@ -587,9 +587,8 @@ body{
         display: flex;
         padding: 70px 10% 0;
         width: 70vw;
-        height: 260vh;
+        height: 240vh;
         object-fit: cover;
-        margin-top: 30px;
         background-repeat: no-repeat;
         background-size: contain;
     }
