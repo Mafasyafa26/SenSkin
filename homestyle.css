@@ -531,7 +531,7 @@ body{
         align-items: center;
         padding: 70px 10% 0;
         width: 70vw;
-        height: 140vh;
+        height: 100%;
         object-fit: cover;
 
         background-repeat: no-repeat;
