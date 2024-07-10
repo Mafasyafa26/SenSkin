@@ -838,7 +838,7 @@ form input, form textarea{
 
   .text3 {
     position: absolute;
-    margin-top: -16cm;
+    margin-top: -18cm;
     left: 49.5%;
     transform: translate(-50%, -50%);
     font-size: 1.125rem;
@@ -874,7 +874,7 @@ form input, form textarea{
 
   .text2 {
     position: absolute;
-    top: 40.5%;
+    top: 41.5%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -885,7 +885,7 @@ form input, form textarea{
 
   .text3 {
     position: absolute;
-    top: 51%;
+    top: 58%;
     left: 49.5%;
     transform: translate(-50%, -50%);
     font-size: 1.125rem;
