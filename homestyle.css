@@ -587,7 +587,7 @@ body{
         display: flex;
         padding: 70px 10% 0;
         width: 70vw;
-        height: 290vh;
+        height: 200vh;
         object-fit: cover;
 
         background-repeat: no-repeat;
