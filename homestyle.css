@@ -537,6 +537,20 @@ body{
         background-repeat: no-repeat;
         background-size: contain;
     }
+
+    
+    .product {
+        background: url(home/layout2.png) no-repeat;
+        display: flex;
+        padding: 70px 10% 0;
+        width: 70vw;
+        height: 290vh;
+        object-fit: cover;
+
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
 }
 
 /* for desktop laptop */
