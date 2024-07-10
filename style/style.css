@@ -797,3 +797,32 @@ form input, form textarea{
     font-size: 1.125rem;
   }
 }
+
+@media only screen and (max-width: 700px) {
+  .texthead {
+    width: 90%;
+    text-align: center;
+    left: 68%;
+    margin-top: -13cm;
+    transform: translate(-70%, -50%);
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: 'Amaranth';
+   }
+}
+
+@media only screen and (min-width: 1000px) {
+  .texthead {
+    position: absolute;
+    top: 24cm;
+    left: 54%;
+    text-align: center;
+    transform: translate(-70%, -50%);
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: 'Amaranth';
+   }
+
+}
