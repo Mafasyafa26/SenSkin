@@ -824,6 +824,17 @@ form input, form textarea{
     font-weight: normal;
     font-family: 'Montserrat';
   }
+
+  .text2 {
+    position: absolute;
+    margin-top: -12cm;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3rem;
+    font-weight: normal;
+    font-family: 'Amaranth';
+  }
 }
 
 /* for desktop laptop */
@@ -844,12 +855,23 @@ form input, form textarea{
    .text {
     width: 90%;
     position: absolute;
-    top: 22%;
+    top: 33%;
     left: 50%;
     transform: translate(-52%, -50%);
     color: white;
     font-size: 1.0rem;
     font-weight: normal;
     font-family: 'Montserrat';
+  }
+
+  .text2 {
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3rem;
+    font-weight: normal;
+    font-family: 'Amaranth';
   }
 }
