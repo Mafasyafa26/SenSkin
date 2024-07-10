@@ -227,7 +227,9 @@ body{
     text-align: left;
     align-items: end;
     justify-content: end;
-    margin: 320px 0px 0px 450px;
+    /* margin: 320px 0px 0px 450px; */
+    margin-left: 50%;
+    margin-top: 450px;
 }
 
 .kon2 h3{
@@ -237,8 +239,10 @@ body{
 }
 
 .kon2 p{
-    width: 600px;
-    max-width: 700px;
+    /* width: 600px; */
+    /* max-width: 700px;
+     */
+    width: 100%;
     color: #1199AE;
     font-family: 'Montserrat', sans-serif;
     margin: 20px 0px 0px 0px;
