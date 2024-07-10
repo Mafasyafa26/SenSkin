@@ -835,6 +835,14 @@ form input, form textarea{
     font-weight: normal;
     font-family: 'Amaranth';
   }
+
+  .text3 {
+    position: absolute;
+    margin-top: -0cm;
+    left: 49.5%;
+    transform: translate(-50%, -50%);
+    font-size: 1.125rem;
+  }
 }
 
 /* for desktop laptop */
@@ -873,5 +881,13 @@ form input, form textarea{
     font-size: 3rem;
     font-weight: normal;
     font-family: 'Amaranth';
+  }
+
+  .text3 {
+    position: absolute;
+    top: 42%;
+    left: 49.5%;
+    transform: translate(-50%, -50%);
+    font-size: 1.125rem;
   }
 }
