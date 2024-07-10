@@ -816,7 +816,7 @@ form input, form textarea{
    .text {
     width: 90%;
     position: absolute;
-    top: 6%;
+    top:8%;
     left: 50%;
     transform: translate(-52%, -50%);
     color: white;
