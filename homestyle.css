@@ -594,6 +594,21 @@ body{
         background-size: contain;
     }
 
+    /* layer */
+    .layerr3 {
+        background: url(./home/layout3.png) no-repeat;
+        background-size: contain;
+        
+        background-repeat: no-repeat;
+        display: flex;
+        padding: 20px 10% 0;
+        width: 100%;
+        height: 220vh;
+        object-fit: cover;
+        text-align: center;
+        margin-top: -100px;
+    }
+
 }
 
 /* for desktop laptop */
