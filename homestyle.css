@@ -583,7 +583,6 @@ body{
 
     
     .product {
-        justify-content: space-between;
         background: url(home/layout2.png) no-repeat;
         display: flex;
         padding: 70px 10% 0;
@@ -593,24 +592,6 @@ body{
         background-repeat: no-repeat;
         background-size: contain;
     }
-
-}
-.home {
-    /* position: relative; */
-    justify-content: space-between;
-    background: url(home/layout1.png) no-repeat;
-    background-size: cover;
-    /* background-position-x: center; */
-    display: flex;
-    align-items: center;
-    padding: 70px 10% 0;
-    width: 120vh;
-    height: 30vh;
-    object-fit: cover;
-
-    background-repeat: no-repeat;
-    /* background-size: contain; */
-}
 
     /* layer */
     .layerr3 {
