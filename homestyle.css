@@ -614,6 +614,32 @@ body{
         /* margin: 20px 0px 0px 200px; */
     }
 
+    .kon2{
+        text-align: left;
+        align-items: end;
+        justify-content: end;
+        /* margin: 320px 0px 0px 450px; */
+        margin-left: 50%;
+        margin-top: 400px;
+    }
+    
+    .kon2 h3{
+        color: #1199AE;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 50px;
+    }
+    
+    .kon2 p{
+        /* width: 600px; */
+        /* max-width: 700px;
+         */
+        width: 100%;
+        color: #1199AE;
+        font-family: 'Montserrat', sans-serif;
+        margin: 20px 0px 0px 0px;
+    
+    }
+
     /* layer */
     .layerr3 {
         background: url(./home/layout3.png) no-repeat;
