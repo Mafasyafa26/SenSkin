@@ -609,7 +609,7 @@ body{
         width: 600px;
         color: #1199AE;
         font-family: 'Montserrat', sans-serif;
-        margin: auto;
+        /* margin: auto; */
         margin-left: 40px;
         /* margin: 20px 0px 0px 200px; */
     }
