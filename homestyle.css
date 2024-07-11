@@ -667,7 +667,7 @@ body{
     .layerr3 {
         background: url(./home/layout3.png) no-repeat;
         background-size: contain;
-        
+        position: relative;
         background-repeat: no-repeat;
         display: flex;
         padding: 20px 10% 0;
@@ -677,6 +677,7 @@ body{
         text-align: center;
         margin: auto;
         margin-top: -100%;
+        z-index: 10000;
         /* margin-top: -100px; */
     }
 
