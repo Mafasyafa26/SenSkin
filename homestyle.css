@@ -676,4 +676,23 @@ body{
         color: #081b29;
         box-shadow: 0 0 20px #fff;
     }
+
+    .product {
+        background: url(home/layout2.png) no-repeat;
+        background-size: cover;
+        display: flex;
+        padding: 70px 10% 0;
+        width: 150vw;
+        height: 290vh;
+        object-fit: cover;
+    }
+
+    .layerr3 {
+        background: url(./home/layout3.png) no-repeat;
+        background-size: cover;
+        display: flex;
+        padding: 10px 10% 0;
+        width: 100%;
+        object-fit: cover;
+    }
 }
