@@ -583,6 +583,7 @@ body{
 
     
     .product {
+        justify-content: space-between;
         background: url(home/layout2.png) no-repeat;
         display: flex;
         padding: 70px 10% 0;
@@ -590,7 +591,7 @@ body{
         height: 240vh;
         /* object-fit: cover; */
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
     }
 
     /* layer */
