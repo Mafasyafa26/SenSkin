@@ -594,7 +594,7 @@ body{
     } */
     .product {
         background: url(home/layout2.png) no-repeat;
-        background-size: cover;
+        background-size: contain;
         display: flex;
         padding: 70px 10% 0;
         width: 150vw;
