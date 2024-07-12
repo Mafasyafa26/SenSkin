@@ -783,15 +783,6 @@ body{
         object-fit: cover;
     }
 
-    .layerr3 {
-        background: url(./home/layout3.png) no-repeat;
-        background-size: cover;
-        display: flex;
-        padding: 10px 10% 0;
-        width: 100%;
-        object-fit: cover;
-    }
-
     .kon1{
         text-align: center;
         align-items: center;
