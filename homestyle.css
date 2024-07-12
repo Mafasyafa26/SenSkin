@@ -588,7 +588,7 @@ body{
         padding: 70px 10% 0;
         width: 70vw;
         height: 10%;
-        /* object-fit: cover; */
+        object-fit: cover;
         background-repeat: no-repeat;
         background-size: contain;
     }
