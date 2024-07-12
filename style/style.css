@@ -621,6 +621,7 @@ form input, form textarea{
   font-weight: normal;
   font-family: 'Amaranth';
 }
+
 @media only screen and (max-width: 450px){
   .texted {
     position: absolute;
@@ -795,6 +796,26 @@ form input, form textarea{
     width: 80%;
     margin: 2% auto 0;
     font-size: 1.125rem;
+  }
+
+  .textimg2 {
+    display: block;
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 25%;
+    height: auto;
+    transform: translate(-50%, -50%);
+  }
+  
+  .titletext{
+    color: #12A4B7;
+    font-size: 8px;
+    font-weight: bold;
+  }
+  .paragraftext{
+    color: #12A4B7;
+    font-size: 8px;
+    font-weight: normal;
   }
 }
 
