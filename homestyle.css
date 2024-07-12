@@ -871,4 +871,24 @@ body{
         text-align: center;
         /* margin-top: 1000px; */
     }
+
+    .lay1{
+        position: absolute;
+        text-align: center;
+        align-items: center;
+        margin: 200px 0px 0px;
+    }
+    
+    .lay1 h3{
+        color: #ffffff;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 50px;
+    }
+    
+    .lay1 p{
+        width: 600px;
+        color: #ffffff;
+        font-family: 'Montserrat', sans-serif;
+        margin: 10px 20px 10px 24%;
+    }
 }
