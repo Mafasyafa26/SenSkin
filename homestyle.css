@@ -791,4 +791,83 @@ body{
         width: 100%;
         object-fit: cover;
     }
+
+    .kon1{
+        text-align: center;
+        align-items: center;
+        margin: 50px 0px 0px 0px;
+    }
+    
+    .kon1 h3{
+        color: #1199AE;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 50px;
+    }
+    
+    .kon1 p{
+        width: 600px;
+        color: #1199AE;
+        font-family: 'Montserrat', sans-serif;
+        margin: 20px 0px 0px 200px;
+    }
+    
+    .kon2{
+        text-align: left;
+        align-items: end;
+        justify-content: end;
+        /* margin: 320px 0px 0px 450px; */
+        margin-left: 50%;
+        margin-top: 450px;
+    }
+    
+    .kon2 h3{
+        color: #1199AE;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 50px;
+    }
+    
+    .kon2 p{
+        /* width: 600px; */
+        /* max-width: 700px;
+         */
+        width: 100%;
+        color: #1199AE;
+        font-family: 'Montserrat', sans-serif;
+        margin: 20px 0px 0px 0px;
+    
+    }
+    
+    .kon3{
+        text-align: left;
+        align-items: end;
+        justify-content: end;
+        margin: 300px 0px 0px 0px;
+    }
+    
+    .kon3 h3{
+        color: #1199AE;
+        font-family: 'Amaranth', sans-serif;
+        font-size: 50px;
+    }
+    
+    .kon3 p{
+        width: 500px;
+        color: #1199AE;
+        font-family: 'Montserrat', sans-serif;
+        margin: 20px 0px 0px 0px;
+    }
+
+    
+    /* layer */
+    .layerr3 {
+        background: url(./home/layout3.png) no-repeat;
+        background-size: cover;
+        display: flex;
+        padding: 20px 10% 0;
+        width: 100%;
+        height: 220vh;
+        object-fit: cover;
+        text-align: center;
+        margin-top: -100px;
+    }
 }
